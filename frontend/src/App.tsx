@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <div>
+      <div className = "container">
         <h1 className="text-primary">Dashboard de Vendas</h1>
         <div className="row px-3">
           <div className="col-sm-6">
